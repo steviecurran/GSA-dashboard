@@ -22,6 +22,5 @@ One challenge was the pop-up modal, although the final result was clearer than t
 
 ![](https://raw.githubusercontent.com/steviecurran/GSA-dashboard/refs/heads/main/Report1_p2-mine.png)
 
-Lastly, out of curiosity, I ran a clustering analysis on the customers and from Principal Component Analysis find four distinct groups (view here).
 
 
